@@ -1,4 +1,11 @@
-# VJ Save Restricted Bot
+
+<p align="center">
+  <img src="https://i.ibb.co/dJ0gpJf1/photo-2025-06-16-12-07-05-7516517596376596504.jpg" alt="VJ Save Restricted Bot Logo">
+</p>
+<h1 align="center">
+  VJ Save Restricted Bot
+</h1>
+
 
 *A Telegram Bot, Which Can Send You Restricted Content By It's Post Link With <b>Login Feature.</b>*
 
@@ -51,7 +58,7 @@ then send post/s link_
 
 __FOR BOT CHATS__
 
-_send link with '/b/', bot's username and message id, you might want to install some unofficial client to get the id like below_
+_send link with '/b/', bot's username and message id, you might want to install some unofficial client (like - Plus Messenger) to get the id like below_
 
 ```
 https://t.me/b/botusername/4321
